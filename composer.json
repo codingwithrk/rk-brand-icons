@@ -1,0 +1,31 @@
+{
+    "name": "codingwithrk/rk-brand-icons",
+    "description": "In this package there are lot of brand icons.",
+    "type": "library",
+    "require": {
+        "php": "^7.3|^8.0",
+        "laravel/framework": "^8.0|^9.0|^10.0|^11.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Codingwithrk\\RkBrandIcons\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CodingwithRK",
+            "email": "pappalarajkumar@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Codingwithrk\\RkBrandIcons\\IconServiceProvider"
+            ],
+            "aliases": {
+                "RkIcon": "Codingwithrk\\RkBrandIcons\\Facades\\RkIcon"
+            }
+        }
+    }
+}

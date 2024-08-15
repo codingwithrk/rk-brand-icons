@@ -1,0 +1,2 @@
+<svg role="img"width="{{ $width }}" height="{{ $height }}" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" id="rk-brand-icon-boat">
+<path fill="{{ $color }}" d="M12.081 0 5.833 17.686 17.15 13.93Zm-10.2 18.223L4.961 24H19.14l2.98-5.777z"/></svg>
