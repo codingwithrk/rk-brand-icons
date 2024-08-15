@@ -1,4 +1,19 @@
-<h1 style="text-align: center; color: #747FFF;">RK BRAND ICONS</h1>
+<h1 align="center">RK BRAND ICONS</h1>
+
+<p align="center">
+    <a>
+        <img alt="Packagist License" src="https://img.shields.io/packagist/l/codingwithrk/rk-brand-icons">
+    </a>
+    <a>
+        <img alt="Packagist Version" src="https://img.shields.io/packagist/v/codingwithrk/rk-brand-icons">
+    </a>
+    <a>
+        <img alt="Packagist Dependency Version" src="https://img.shields.io/packagist/dependency-v/codingwithrk/rk-brand-icons/php">
+    </a>
+    <a>
+        <img alt="Packagist Dependency Version" src="https://img.shields.io/packagist/dependency-v/codingwithrk/rk-brand-icons/laravel%2Fframework">
+    </a>
+</p>
 
 ## Introduction
 
