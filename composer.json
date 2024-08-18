@@ -27,5 +27,6 @@
                 "RkIcon": "Codingwithrk\\RkBrandIcons\\Facades\\RkIcon"
             }
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
