@@ -1,4 +1,4 @@
-<h1 align="center">RK BRAND ICONS</h1>
+![Image](https://codingwithrk.com/package-banner/rk-brand-icons.png)
 
 <p align="center">
     <a>
